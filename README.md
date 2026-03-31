@@ -27,20 +27,20 @@ The app solves a big problem: people spend 15–30% more than they need to becau
 ```text
 frontend/
 ├── src/
-│   ├── lib/                              # Shared utilities and configurations
+│   ├── lib/                  # Shared utilities and configurations
 │   │   ├── components/       # Reusable UI components (Tailwind)
-│   │   ├── stores/                  # Svelte stores (state management)
-│   │   └── index.ts                # Exports for lib files
-│   ├── routes/                       # Pages, layouts, and API routes
-│   │   ├── +page.svelte       # Main homepage template
-│   │   └── +layout.svelte     # Global app layout
-│   └── app.html                   # Main HTML entry template
-├── static/                             # Public assets (images, favicons)
-├── tests/                              # E2E and Unit testing
-├── svelte.config.js              # SvelteKit configuration
-├── tailwind.config.ts          # Tailwind CSS configuration
-├── vite.config.ts                 # Vite bundler configuration
-└── package.json                # Project metadata and dependencies
+│   │   ├── stores/           # Svelte stores (state management)
+│   │   └── index.ts          # Exports for lib files
+│   ├── routes/               # Pages, layouts, and API routes
+│   │   ├── +page.svelte      # Main homepage template
+│   │   └── +layout.svelte    # Global app layout
+│   └── app.html              # Main HTML entry template
+├── static/                   # Public assets (images, favicons)
+├── tests/                    # E2E and Unit testing
+├── svelte.config.js          # SvelteKit configuration
+├── tailwind.config.ts        # Tailwind CSS configuration
+├── vite.config.ts            # Vite bundler configuration
+└── package.json              # Project metadata and dependencies
 ```
 
 ---
