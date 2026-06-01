@@ -1,4 +1,4 @@
-# Compras - Frontend
+# La Góndola - Frontend
 
 > A web app that lets you compare grocery prices and find personalized discounts at many different grocery stores
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Compras is a web app that helps people save money by comparing prices on different products at different supermarkets. It also figures out the real final price based on things like their age, location, and whether or not they can get a discount (like with a bank card or digital wallet).
+La Góndola is a web app that helps people save money by comparing prices on different products at different supermarkets. It also figures out the real final price based on things like their age, location, and whether or not they can get a discount (like with a bank card or digital wallet).
 
 The app solves a big problem: people spend 15–30% more than they need to because they don't know how to easily compare prices at different stores or which discounts apply to them.
 
@@ -71,12 +71,8 @@ frontend/
 
 Right now, only core team members can make contributions.
 
----
-
 ## License
 
 The MIT License covers this project. For more information, see the [LICENSE](./LICENSE) file.
 
 ---
-
-**Note**: "Compras" is a temporary name for now. In the next phases of the project, the final application and company names will be chosen.
